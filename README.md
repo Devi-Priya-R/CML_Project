@@ -34,7 +34,6 @@ The project explores how machine learning can be used to process symptom data an
 - `diets.csv` — diet recommendations
 - `workout_df.csv` — workout recommendations
 
-*Note: Confirm that these filenames and responsibilities match the files in your current repository.*
 
 ## 🚀 Learning Outcomes
 Through this project, I explored Python programming, machine learning workflows, dataset processing, model integration, and the development of an application that connects model predictions with user-facing information.
